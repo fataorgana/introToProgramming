@@ -66,7 +66,6 @@ public class Repetition {
 		System.out.print("\nTo find largest factor, please enter number: ");
 		
 		y = console.nextInt();
-		int z = 0;
 		
 		for (int x = 2; x < y ; x++){
 			
